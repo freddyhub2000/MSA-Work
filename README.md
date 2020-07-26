@@ -1,12 +1,12 @@
-MSA Project 2 Plugins
-Archibold Liang
-Current Issues
+#MSA Project 2 Plugins
+##Archibold Liang
+###Current Issues
 Current issues with my website are that I require the home page to have updated images depending on the latest post from each category. Another problem is that I want to have music to create atmosphere when users browse the website. However, the biggest problem is the lack of customisable options with the default WordPress tools, hindering the website from becoming more than a basic block of text. Without much knowledge on coding to self-write theme codes, the use of additional plugins brings quick and easy solutions to these problems.
 
-Plugin Types
+###Plugin Types
 The types of plugins that will solve the above issues are a front-end page builder plugin, as the bulk of the plugins, to widen the toolbox for customization of the website’s appearance and abilities. A featured image manipulator will also be needed to accomplish the goal of having dynamically changing images on the home page, whilst also making it easier and quicker to insert images. Next would be an audio player to act as an upgraded version of the default audio player and an auto publisher plugin, to enable the website home page to be always up to date and achieve the goals set above.
 
-Plugin Providers
+###Plugin Providers
 The plugins chosen were: 
 •	Elementor Page Builder By Elementor.com 
 This plugin has one of the highest active installation counts and has been updated recently. The good reviews were also an indication that the plugin worked as stated and I safe. The free version also covers all the tools I had required so bigger plugins were not needed. 
@@ -17,7 +17,7 @@ This plugin appeared to be one of the few available similar plugins and the most
 •	Html5 Audio Player – Audio Player for WordPress By bPlugins
 This was the most popular and simple to use audio plugin out of the many similar ones available, therefore it was the highest rated by many users. 
 
-Implementation steps
+###Implementation steps
 High level steps taken to implement the plugins were: 
 •	Elementor Page Builder By Elementor.com 
 As the sole appearance layout of each page and post. Brought the option to add star ratings, image carousels and latest posts with cleaner graphics compared to the default WordPress options. It also gave the option to save templates of a type of page which made it easier to implement new posts without needed to reconfigure dimensions of widgets and general layouts repetitively. 
@@ -28,7 +28,7 @@ Implemented onto only the 3 main pages to have them be republished intervalley, 
 •	Html5 Audio Player – Audio Player for WordPress By bPlugins
 Placed on the Footnote to add atmosphere to the website with this audio player. It also allowed for looping and auto playing music anywhere on the site, which the default audio player lacked.  
 
-Expected benefits
+###Expected benefits
 Applicable benefits each plugin provided were:
 •	Elementor Page Builder By Elementor.com 
 Ait gave us a wide variety of widgets such as star ratings and image carousels which add more interest to each page. 
