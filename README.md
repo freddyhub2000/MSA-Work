@@ -46,15 +46,17 @@ Placed on the Footnote to add atmosphere to the website with this audio player. 
 Applicable benefits each plugin provided were:
 * Elementor Page Builder By Elementor.com 
 
-Ait gave us a wide variety of widgets such as star ratings and image carousels which add more interest to each page. 
+It gave us a wide variety of widgets such as star ratings and image carousels which add more interest to each page. 
+
 * Featured Image from URL By fifu.app
 
-increases productivity rates as it is much easier to set images instead of having to save and upload each one, it has also allowed us to consistently have updated feature photos on the home page depending on the newest post results from each category
+Increases productivity rates as it is much easier to set images instead of having to save and upload each one, it has also allowed us to consistently have updated feature photos on the home page depending on the newest post results from each category
 
 * WP Auto Republish By Sayan Datta
 
-Automatically updates the home page to allow updated featured photos to appear which would have been a hassle if had to be done manually when ever a new post is added to the sire.
+Automatically updates the home page to allow updated featured photos to appear which would have been a hassle if had to be done manually when ever a new post is added to the site.
 
 * Html5 Audio Player – Audio Player for WordPress By bPlugins
+
 Allows for greater control over the basic audio player provided by WordPress, adding interest to whenever the page is loaded and have people sitting back to read articles.
 
