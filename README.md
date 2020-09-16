@@ -61,7 +61,7 @@ Automatically updates the home page to allow updated featured photos to appear w
 Allows for greater control over the basic audio player provided by WordPress, adding interest to whenever the page is loaded and have people sitting back to read articles.
 
 
-#MSA Project 3 
+# MSA Project 3 
 
 This persona is someone who wants to have an easy to access, digital cookbook so they can access their recipes on the go. This person is a 45 year old male who Is a stay at home dad who is also a cooking enthusiast. He is tired of sorting through his mountain of printout recipes he had downloaded from the internet, which he also keeps losing and forgetting if he is out and cooking for a friend somewhere that isn’t his own house. He also has the habit of losing the scraps of paper he always writes his shopping lists on, so because the one device he always has nearby is his phone, this app is a basic storage space for recipes and shopping lists.
 
